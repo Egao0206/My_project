@@ -1,0 +1,12 @@
+Notation: *+ fixed bug
+          ++ new feature
+          o+ optimization
+           + minor modifications
+
+The following modificitons are mainy made by Gao.
+
+Mon April 15, 2024
++ output 2D pressure and temperature data (nz,nx).  
+
+Wed May 8,2024
++ whether or not output the T & P （nz，nx） data by adjusting parameter tp_file in bc_dynflt_tp.f90.
