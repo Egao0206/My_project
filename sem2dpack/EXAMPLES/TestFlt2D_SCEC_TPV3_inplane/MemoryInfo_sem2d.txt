@@ -1,0 +1,35 @@
+
+ ===================================================
+ =   S E M 2 D P A C K   m e m o r y   u s a g e   =
+ ===================================================
+
+       Name            Size (bytes)     Cumulative
+ ---------------------------------------------------
+
+   1   coorg                  46576          46576
+   2   knods                  44800          91376
+   3   tag                    11200         102576
+   4   ibool                 403200         505776
+   5   coord                1128816        1634592
+   6   matpro                 44800        1679392
+   7   matpro:mass            89600        1768992
+   8   matpro:elast          358400        2127392
+   9   matpro:kv            1164800        3292192
+  10   matwrk                134400        3426592
+  11   matwrk%elast            1944        3428536
+  12   matwrk%kv            1075200        4503736
+  13   displ                1128816        5632552
+  14   veloc                1128816        6761368
+  15   accel                1128816        7890184
+  16   mass                 1128816        9019000
+  17   bc%C                    3216        9022216
+  18   bc%C                    5616        9027832
+  19   rec%sis                23840        9051672
+
+
+ Total number of allocated arrays. . . . .         19
+ Total size of arrays in megabytes . . . .      8.632
+                      in bytes . . . . . .    9051672
+
+
+
